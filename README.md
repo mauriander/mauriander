@@ -44,19 +44,13 @@ I have excellent design & coding skills, as well as an ability to convert requir
 |---|---|---|---|---|---|---|---|---|
 
 ### Github Stats
-
-[![Mauricio Andermatten GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauriander&show_icons=true&count_private=true)](https://github.com/mauriander)
-
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mauriander&repo=PackageTemplate&show_owner=true)](https://github.com/mauriander/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mauriander&repo=Foods-Ecommerce&show_owner=true)](https://github.com/mauriander/Foods-Ecommerce)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriander&layout=compact&custom_title=Lenguajes&nbsp;más&nbsp;utilizados%20⌨️&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 
-<a href="ttps://www.linkedin.com/in/mauricio-andermatten-a1b715bb/" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/in/mauricio-andermatten-a1b715bb/?style=flat&logo=linkedin"></a>
+<a href="ttps://www.linkedin.com/in/mauricio-andermatten-a1b715bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <a href="mailto:maurianderit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maurianderit@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
