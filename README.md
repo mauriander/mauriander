@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
- <img width="100px" src="https://drive.google.com/file/d/1BEBWtXTY7bY-JcZTQwlPTDHx1jnLtzDP/view?usp=drive_link" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://drive.google.com/file/d/1BEBWtXTY7bY-JcZTQwlPTDHx1jnLtzDP/view?usp=drive_link" align="center" alt="profile image" />
  <h2 align="center">Profile</h2>
 </p>
+![Profile Image](src="https://drive.google.com/file/d/1BEBWtXTY7bY-JcZTQwlPTDHx1jnLtzDP/view?usp=drive_link)
 
 ### Hi there 👋 I'm [Mauricio Andermatten](https://maurianderc51.000webhostapp.com/index.html)
 > Fullstack & QA Tester
