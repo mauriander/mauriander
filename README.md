@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 I'm [Mauricio Andermatten](https://maurianderc51.000webhostapp.com/index.html)
-> Fullstack & QA Tester
+> ### Fullstack & QA Tester
 
 
 
