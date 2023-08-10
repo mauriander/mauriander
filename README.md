@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 &bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff
 -->
-<p align="center"><img src="gitwelcome2.png" align="center" alt="profile image" /></p>
+<p align="center"><img src="gitwelcome2.png" align="center" alt="profile header" /></p>
  <!--
  <h2 align="center">Profile</h2>
 <p align="center" style="background-color: black; color: white; padding: 10px;" >
