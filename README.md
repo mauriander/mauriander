@@ -35,20 +35,31 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Programming Languages 🌐
 
- 
+ <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+<img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+
+
+### Framworks 
+<img align="center" alt="IntelliJ IDEA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+<img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+
 
 
  
 ### Tools 🛠️
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">  
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+<img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">  
 
 ### Github Stats
 
 ![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriander&count_private=true&custom_title=Mauricio&nbsp;GitHub&nbsp;Stats&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff)
 
+![Top Langs]
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriander&layout=compact&custom_title=Lenguajes%20más%20utilizados%20⌨️&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff" alt="Top Langs">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriander&layout=compact&custom_title=Lenguajes&nbsp;más&nbsp;utilizados%20⌨️&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
