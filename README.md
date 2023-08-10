@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center" style="  background-color: black;color: white;">
- <img width="100px" src="avatar2.jpg" align="center" alt="profile image" />
+
+<p align="center">
+ <img width="100px" src="avatar2.jpg&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff" align="center" alt="profile image" />
  <h2 align="center">Profile</h2>
 </p>
 
@@ -60,7 +61,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <p align="center">
 
-<a href="ttps://www.linkedin.com/in/mauricio-andermatten-a1b715bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mauricio-andermatten-a1b715bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <a href="mailto:maurianderit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maurianderit@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
