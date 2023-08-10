@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
- <img width="100px" src="./avatar2" align="center" alt="profile image" />
+ <img width="100px" src="avatar2.jpg" align="center" alt="profile image" />
  <h2 align="center">Profile</h2>
 </p>
 
