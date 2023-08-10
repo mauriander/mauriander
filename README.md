@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<p align="center" style="  background-color: black;color: white;">
  <img width="100px" src="avatar2.jpg" align="center" alt="profile image" />
  <h2 align="center">Profile</h2>
 </p>
