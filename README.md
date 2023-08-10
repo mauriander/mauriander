@@ -53,6 +53,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 
 ### Github Stats
+![mauriander GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriander&show_icons=true&theme=radical)
 
 ![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriander&count_private=true&custom_title=Mauricio&nbsp;GitHub&nbsp;Stats&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff)
 
