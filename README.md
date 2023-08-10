@@ -44,7 +44,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-![Fer GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriander&count_private=true&custom_title=Mauricio&nbsp;GitHub&nbsp;Stats&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff)
+![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriander&count_private=true&custom_title=Mauricio&nbsp;GitHub&nbsp;Stats&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriander&layout=compact&custom_title=Lenguajes%20más%20utilizados%20⌨️&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff" alt="Top Langs">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriander&layout=compact&custom_title=Lenguajes&nbsp;más&nbsp;utilizados%20⌨️&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff)
 
