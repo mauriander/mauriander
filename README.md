@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff
 -->
 
-<p align="center">
- <img width="100px" src="avatar2.jpg&bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff" align="center" alt="profile image" />
+<p align="center" >
+ <img width="100px" src="avatar2.jpg" align="center" alt="profile image" />
  <h2 align="center">Profile</h2>
 </p>
 
