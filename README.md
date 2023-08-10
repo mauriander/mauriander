@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 &bg_color=100,5b4f51,fffff9&title_color=fff&text_color=fff
 -->
 
-<p align="center" >
+<p align="center" style="background-color: black; color: white; padding: 10px;" >
  <img width="100px" src="avatar2.jpg" align="center" alt="profile image" />
  <h2 align="center">Profile</h2>
 </p>
