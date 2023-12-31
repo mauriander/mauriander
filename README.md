@@ -66,5 +66,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://www.linkedin.com/in/mauricio-andermatten-a1b715bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <a href="mailto:maurianderit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maurianderit@gmail.com-blue?style=flat&logo=gmail"></a>
+
+[![](https://visitcount.itsvg.in/api?id=mauriander&label=mauriander&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
 </p>
 
