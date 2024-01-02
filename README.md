@@ -68,6 +68,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <a href="mailto:maurianderit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maurianderit@gmail.com-blue?style=flat&logo=gmail"></a>
 
-[![](https://visitcount.itsvg.in/api?id=mauriander&label=Visitas-2024&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![Visitas](https://img.shields.io/endpoint?url=https://visitcount.itsvg.in/api?id=mauriander&label=Visitas-2024&color=2&icon=5)
+
 </p>
 
